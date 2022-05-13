@@ -1,8 +1,13 @@
-HELP.md
-target/
-!.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+mvnw.cmd
+.mvn/wrapper
+
+*.cmd
+mvnw
+*.iml
+.mvn
+HELP.md
 
 ### STS ###
 .apt_generated
@@ -16,8 +21,11 @@ target/
 ### IntelliJ IDEA ###
 .idea
 *.iws
-*.iml
 *.ipr
+
+# Maven
+target/
+dist/
 
 ### NetBeans ###
 /nbproject/private/
