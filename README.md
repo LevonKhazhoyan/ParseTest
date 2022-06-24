@@ -1,7 +1,5 @@
 # Parser Json and Csv into Java Objects 
 
-## Parse Task for Unlimint company  
-
 Implemented project using:  
 ```
 Java 8
